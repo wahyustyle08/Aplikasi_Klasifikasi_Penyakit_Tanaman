@@ -3,4 +3,3 @@ tensorflow==2.20.0
 numpy
 pillow
 h5py
-protobuf==5.29.6
