@@ -149,7 +149,7 @@ def load_model(tanaman):
         model_path = os.path.join(
             BASE_DIR,
             "models",
-            "project_cabai.h5"
+            "project_cabai.keras"
         )
 
     # =========================
@@ -160,7 +160,7 @@ def load_model(tanaman):
         model_path = os.path.join(
             BASE_DIR,
             "models",
-            "project_tomat.h5"
+            "project_tomat.keras"
         )
 
     # =========================
@@ -171,7 +171,7 @@ def load_model(tanaman):
         model_path = os.path.join(
             BASE_DIR,
             "models",
-            "project_kentang.h5"
+            "project_kentang.keras"
         )
 
     # =========================
