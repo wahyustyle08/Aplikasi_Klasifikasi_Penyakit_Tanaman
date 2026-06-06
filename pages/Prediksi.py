@@ -355,7 +355,7 @@ if uploaded_file is not None:
     # PROBABILITAS
     # =========================
     st.subheader(
-        "dengan Probabilitas Terjangankit Jenis Penyakit Lainnya:"
+        "dengan Probabilitas Terjangkit Jenis Penyakit Lainnya:"
     )
 
     for i, kelas in enumerate(
